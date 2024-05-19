@@ -37,15 +37,3 @@ matplotlib
 jupyter
 scikit-learn
 ```
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
-## Contributing
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
-
-## Acknowledgements
-Special thanks to everyone who contributed to this project.
-```
-
-This file includes the project overview, setup instructions, usage guidelines, a list of requirements, license information, contributing guidelines, and acknowledgements all in one place.
